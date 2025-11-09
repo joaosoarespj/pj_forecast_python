@@ -1,5 +1,0 @@
-{
-  "generated_on": "2025-11-09",
-  "seed": 655357,
-  "notes": "Forecast com Markov mensal + viés trimestral; vendas projetadas com sazonalidade + tendência; tickets P60 ponderados (>=2024) priorizando ano mais recente (quando houver 2026, ele pesa mais)."
-}
