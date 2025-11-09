@@ -1,0 +1,5 @@
+{
+  "generated_on": "2025-11-09_033333",
+  "seed": 792505,
+  "notes": "Forecast com Markov mensal + viés trimestral; vendas projetadas com sazonalidade + tendência; tickets P60 ponderados (>=2024). Nomes únicos com timestamp e fallback __02."
+}
